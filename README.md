@@ -6,7 +6,7 @@ Pour cela, nous aurons besoin besoin de cette API : [Documentation de l'API](htt
 
 Installe le projet avec la commande `npm ci` (à préférer à `npm install`, car les versions des modules seront les mêmes que le package-lock.json).
 
-Les modules `axios` et `react-router-dom` sont déjà installé. Tu n'as pas à installer de modules pour cet exercice !
+Le module `react-router-dom` est déjà installé. Tu n'as pas à installer de modules pour cet exercice !
 
 ## 0. Routing
 
